@@ -38,6 +38,8 @@ https://github.com/Nutri-AI/Database
 
 ### ERD
 ![db](https://user-images.githubusercontent.com/100662106/161993005-252d123b-6451-45e4-9fb3-6f3743060df3.PNG)
+![ERD_final drawio](https://user-images.githubusercontent.com/33509018/162860867-4b17044b-33c2-4d68-9ac9-6b5285d5e40e.png)
+
 
 Model
 -------
