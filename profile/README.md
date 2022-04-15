@@ -2,9 +2,8 @@
   README.md for NutriAI project
 --->
 
-<br/>
 <div align="center">
-  <img width="30%" alt="NutriAI_logo" src="images/NutriAI_logo.png" title="NutriAI logo">
+  <img width="30%" alt="NutriAI_logo" src="https://github.com/Nutri-AI/.github/blob/main/profile/images/NutriAI_logo.png" title="NutriAI logo">
   <br/>
   <h3 align="center">이미지 탐지를 통한 식단 분석 및 영양제 추천</h3>
   <p align="center">
@@ -70,7 +69,7 @@
 
 ## ERD
 <div align="center">
-  <img width="50%" alt="NutriAI_database_ERD" src="images/ERD_key.drawio.png">
+  <img width="55%" alt="NutriAI_database_ERD" src="https://github.com/Nutri-AI/.github/blob/main/profile/images/ERD_key.drawio.png">
 </div>
 
 ## Development
