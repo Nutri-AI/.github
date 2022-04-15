@@ -52,13 +52,12 @@
 - 사용자 맞춤 영양제 추천
 
 ### Short Video
-<video width="100%" height="100%" controls="controls">
-  <source src="https://drive.google.com/file/d/1Jol6bOU-pyLOv7MhbkuoDbPoaK333CMf/view?usp=sharing" type="video/mp4">
-</video>
+<div align="center">
+  <video src="https://user-images.githubusercontent.com/33509018/163580554-2daf92a4-33e3-4818-9278-31258f6444be.mp4" data-canonical-src="https://user-images.githubusercontent.com/33509018/163580554-2daf92a4-33e3-4818-9278-31258f6444be.mp4" controls="controls" muted="muted" style="max-height:640px;">
+  </video>
+</div>
 
-<figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1Jol6bOU-pyLOv7MhbkuoDbPoaK333CMf/view?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+
 
 ## Build With
 - [Amazon DynamoDB](https://aws.amazon.com/dynamodb/)
