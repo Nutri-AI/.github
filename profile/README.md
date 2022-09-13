@@ -6,8 +6,9 @@
   <img width="30%" alt="NutriAI_logo" src="https://github.com/Nutri-AI/.github/blob/main/profile/images/NutriAI_logo.png" title="NutriAI logo">
   <br/>
   <h3 align="center">이미지 탐지를 통한 식단 분석 및 영양제 추천</h3>
+  <h3 align="center">Personal Diet Assessment and Supplement Recommendation Application</h3>
   <p align="center">
-    <a href="https://github.com/hyeniii">황혜원</a>
+    <a href="https://github.com/hyeniii">황혜원 (Hye Won Hwang)</a>
     ·
     <a href="https://github.com/Angwoo-the-Fuego">지영우</a>
     ·
@@ -47,9 +48,9 @@
 
 ## Overview
 ### Service Component
-- 이미지를 통한 식단 기록
-- 사용자 영양상태 확인
-- 사용자 맞춤 영양제 추천
+- 이미지를 통한 식단 기록 (Detects and logs food image)
+- 사용자 영양상태 확인 (Summarize user nutritional status)
+- 사용자 맞춤 영양제 추천 (Recommend supplement based on user diet)
 
 ### Short Video
 <div align="center">
@@ -59,7 +60,7 @@
 
 
 
-## Build With
+## Built With
 - [Amazon DynamoDB](https://aws.amazon.com/dynamodb/)
 - [Amazon EC2](https://aws.amazon.com/ec2/)
 - [YOLOv3](https://github.com/ultralytics/yolov3)
